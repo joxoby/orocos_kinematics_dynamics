@@ -14,7 +14,7 @@ ENDIF()
 #                                                 #
 ###################################################
 
-PROJECT(orocos_kdl)
+PROJECT(orocos_kdl_1_5_1)
 
 SET( KDL_VERSION 1.5.1)
 STRING( REGEX MATCHALL "[0-9]+" KDL_VERSIONS ${KDL_VERSION} )

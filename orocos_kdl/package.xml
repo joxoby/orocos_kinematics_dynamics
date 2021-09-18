@@ -3,7 +3,7 @@
   href="http://download.ros.org/schema/package_format3.xsd"
   schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>orocos_kdl</name>
+  <name>orocos_kdl_1_5_1</name>
   <version>1.5.1</version>
   <description>
     This package contains a recent version of the Kinematics and Dynamics
